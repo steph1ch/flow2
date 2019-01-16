@@ -1,0 +1,5 @@
+feature 1
+
+sc adding new line
+sc adding line2
+sc adding line3
