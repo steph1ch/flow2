@@ -1,3 +1,4 @@
 feature 1
 
 sc adding new line
+sc adding line2
